@@ -6,7 +6,8 @@ Project](https://www.theodinproject.com/) curriculum.
 
 ## Preview
 
-![Etch and Sketch Preview](./images/preview.png)
+<img width="1845" height="931" alt="image" src="https://github.com/user-attachments/assets/f6b9a04d-cb0a-4468-a9bc-4ea03a881c3b" />
+
 
 ## Live Demo
 
