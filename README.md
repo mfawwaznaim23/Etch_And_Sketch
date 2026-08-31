@@ -11,7 +11,8 @@ Project](https://www.theodinproject.com/) curriculum.
 
 ## Live Demo
 
-(https://mfawwaznaim23.github.io/Etch_And_Sketch/)
+
+[View the live project](https://mfawwaznaim23.github.io/Etch_And_Sketch/)
 
 ## About the Project
 
