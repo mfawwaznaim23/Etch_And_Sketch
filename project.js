@@ -52,7 +52,7 @@ f.addEventListener("click",function()
     {
         page.forEach(function(pg)
     {
-        pg.remove
+        pg.remove();
     });
     }
     abs();
